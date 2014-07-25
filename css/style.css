@@ -25,6 +25,10 @@ a:hover, a:active {
 	background: none;
 }
 
+.jumbotron h1 {
+	text-shadow: 0px 5px 5px #fff;
+}
+
 .navbar {
 	max-width: 960px;
 	margin: 0 auto;
