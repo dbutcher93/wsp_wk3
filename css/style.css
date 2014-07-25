@@ -1,0 +1,88 @@
+body {
+	background-color: #d7d7d7;
+	color: #fff;
+}
+
+a {
+	color: #652b3f;
+}
+
+a:hover, a:active {
+	color: #fff;
+}
+
+.container1 {
+	background: url(../img/jumbobg.jpg) fixed no-repeat;
+	color: #fff;
+	max-width: 960px;
+	height: 500px;
+	text-align: center;
+	padding-top: 100px;
+	margin: 0 auto;
+}
+
+.jumbotron {
+	background: none;
+}
+
+.navbar {
+	max-width: 960px;
+	margin: 0 auto;
+	background-color: #8d8d8d;
+}
+
+.navbar .nav > li > a {
+	color: #fff;
+}
+
+.navbar .nav > li > a:hover {
+	background-color: #652b3f;
+}
+
+.logo {
+	margin-top: -15px;
+}
+
+.form-control, table, .featured p {
+	max-width: 500px;
+	margin: 0 auto;
+}
+
+.container2 {
+	max-width: 960px;
+	margin: 0 auto;
+	background-color: #8d8d8d;
+	overflow: auto;
+}
+
+
+
+.featured {
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+.feature-img {
+	max-width: 450px; 
+	margin: 0 auto;
+	padding-bottom: 15px;
+}
+
+img {
+	width: 100%;
+}
+
+.container2 h4, .container2 .featured {
+	margin-top: 75px;
+}
+
+.search-img {
+	max-width: 150px;
+}
+
+.addbuttons li {
+	display: inline;
+	margin-left: 5px;
+}
+
+
