@@ -65,7 +65,6 @@ input:focus {
 }
 
 
-
 .featured {
 	text-align: center;
 	padding-bottom: 10px;
@@ -92,6 +91,11 @@ img {
 .addbuttons li {
 	display: inline;
 	margin-left: 5px;
+}
+
+.review {
+	background: #fff;
+	color: #000;
 }
 
 
